@@ -3,8 +3,8 @@
 //
 using System.Reflection;
 
-[assembly: AssemblyVersion("8.2.17.0")]
-[assembly: AssemblyFileVersion("8.2.17.0")]
+[assembly: AssemblyVersion("9.3.37.0")]
+[assembly: AssemblyFileVersion("9.3.37.0")]
 [assembly: AssemblyCompany("Aurigma, Inc.")]
 [assembly: AssemblyCopyright("Aurigma, Inc.")]
 [assembly: AssemblyTrademark("Aurigma Graphics Mill")]
