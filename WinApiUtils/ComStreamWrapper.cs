@@ -3,6 +3,7 @@
 //
 using System;
 using System.Runtime.InteropServices;
+using STATSTG = System.Runtime.InteropServices.ComTypes.STATSTG;
 
 namespace Aurigma
 {
